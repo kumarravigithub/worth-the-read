@@ -1,0 +1,24 @@
+{
+  "name": "worth-the-read",
+  "version": "0.1.0",
+  "description": "This package give it a text it will get the read time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techsavyravi/worth-the-read.git"
+  },
+  "keywords": [
+    "worth",
+    "the",
+    "read"
+  ],
+  "author": "Kumar Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techsavyravi/worth-the-read/issues"
+  },
+  "homepage": "https://github.com/techsavyravi/worth-the-read#readme"
+}
